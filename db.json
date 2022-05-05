@@ -41,6 +41,42 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Snake plant",
+      "image": "https://secure.img1-fg.wfcdn.com/im/07436450/resize-h445%5Ecompr-r85/1015/101506630/Faux+Snake+Plant+in+Planter.jpg",
+      "price": "45",
+      "id": 8
+    },
+    {
+      "name": "fig plant",
+      "image": "https://assets.weimgs.com/weimgs/ab/images/wcm/products/202204/0059/faux-5ft-monstera-plant-wide-mid-century-turned-wood-leg-p-z.jpg",
+      "price": "45",
+      "id": 9
+    },
+    {
+      "name": "fig ",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_611eb963-13c4-42fd-9bd5-65a607ff5b3b?wid=488&hei=488&fmt=pjpeg",
+      "price": "35",
+      "id": 10
+    },
+    {
+      "name": "snake 2",
+      "image": "https://cdn.shopify.com/s/files/1/1706/1307/products/Sansevieria-zeylanica-Snake-Plant-17x50cm.jpg?v=1543256439",
+      "price": "25",
+      "id": 11
+    },
+    {
+      "name": "snake 2",
+      "image": "https://cdn.shopify.com/s/files/1/1706/1307/products/Sansevieria-zeylanica-Snake-Plant-17x50cm.jpg?v=1543256439",
+      "price": "25",
+      "id": 12
+    },
+    {
+      "name": "snake 3",
+      "image": "https://cdn.shopify.com/s/files/1/1706/1307/products/Sansevieria-zeylanica-Snake-Plant-17x50cm.jpg?v=1543256439",
+      "price": "85",
+      "id": 13
     }
   ]
 }
